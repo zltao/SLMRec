@@ -1,0 +1,1 @@
+python3 main.py --recommender="SLMRec" --data.input.dataset=$1 --ssl_task="$2" --lr=$3 --weight_decay=$4 --ssl_alpha=$5 --ssl_temp=$6 --loss="multi_loss" --test_step=$7 --stop_cnt=$8 --num_epoch=1000 --init="xavier" --recdim=64 --with_item_vat=True --save_flag=False --create_log_file=False --mm_fusion_mode='concat' --batch_size=2048  --suffix="$1_$2_lr_$3_alpha_$4_temp_$5"

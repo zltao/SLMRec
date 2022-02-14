@@ -21,15 +21,6 @@ The code has been tested running under Python 3.5.2. The required packages are a
 - torch-sparse == 0.4.0
 - numpy == 1.16.0
 
-## Example to Run the Codes
-The instruction of commands has been clearly stated in the codes.
-- Kwai dataset  
-```python main.py --model_name='MMGCN' --l_r=0.0005 --weight_decay=0.1 --batch_size=1024 --dim_latent=64 --num_workers=30 --aggr_mode='mean' --num_layer=2 --concat=False```
-- Tiktok dataset  
-`python main.py --model_name='MMGCN' --l_r=0.0005 --weight_decay=0.1 --batch_size=1024 --dim_latent=64 --num_workers=30 --aggr_mode='mean' --num_layer=2 --concat=False`
-- Movielens dataset  
-`python main.py --model_name='MMGCN' --l_r=0.0001 --weight_decay=0.0001 --batch_size=1024 --dim_latent=64 --num_workers=30 --aggr_mode='mean' --num_layer=2 --concat=False`  
-
 ## Dataset
 We provide three processed datasets: Kwai, Tiktok, and Movielnes.  
 - You can find the full version of recommendation datasets via [Kwai](https://www.kuaishou.com/activity/uimc), [Tiktok](http://ai-lab-challenge.bytedance.com/tce/vc/), and [Movielens](https://grouplens.org/datasets/movielens/).

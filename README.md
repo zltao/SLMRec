@@ -1,6 +1,6 @@
 # Self-supervised  learning for Multimedia Recommendation
 This is our Pytorch implementation for the paper:  
-> Zhulin~Tao, Xiaohao~Liu, Yewei~Xia, Xiang~Wang*, Lifang~Yang, Xianglin~Huang, and Tat-Seng Chua. Self-supervised  learning for Multimedia Recommendation  
+> Zhulin Tao, Xiaohao Liu, Yewei Xia, Xiang Wang*, Lifang Yang, Xianglin Huang, and Tat-Seng Chua. Self-supervised  learning for Multimedia Recommendation  
 Author: Dr.Zhulin Tao (taozhulin at gmail.com)
 
 ## Introduction

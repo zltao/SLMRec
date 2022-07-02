@@ -4,7 +4,9 @@
 
 > Authors: Zhulin Tao, Xiaohao Liu, Yewei Xia, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua
 
-![](./figures/framework.png)
+<p align="center">
+<img height=300 src="./figures/framework.png" alt="SLMRec" />
+</p>
 
 ## Installation
 The code has been tested running under Python 3.6.5. The required packages are as follows:

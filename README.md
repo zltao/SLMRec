@@ -5,7 +5,7 @@
 > Authors: Zhulin Tao, Xiaohao Liu, Yewei Xia, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua
 
 <p align="center">
-<img height=300 src="./figures/framework.png" alt="SLMRec" />
+<img height=400 src="./figures/framework.png" alt="SLMRec" />
 </p>
 
 ## Installation

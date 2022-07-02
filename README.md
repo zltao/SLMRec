@@ -4,7 +4,7 @@
 
 > Authors: Zhulin Tao, Xiaohao Liu, Yewei Xia, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua
 
-<figure> < img src="figures/framework.png" height="400"></figure>
+<figure> < img src="figures/framework.png" height="400"/> </figure>
 
 ## Installation
 The code has been tested running under Python 3.6.5. The required packages are as follows:
